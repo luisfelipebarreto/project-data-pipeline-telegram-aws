@@ -1,4 +1,4 @@
-# 📊 Projeto Pipeline de Dados: Análise de Engajamento em Chatbot do Telegram
+# 📊 Projeto Pipeline de Dados do Telegram
 
 Este projeto demonstra a construção de um pipeline de dados completo, desde a ingestão de dados (mensagens de texto do Telegram) até a análise exploratória e a possibilidade de *insights* de negócio.
 
@@ -20,3 +20,5 @@ O objetivo principal foi transformar interações de usuários em um grupo do Te
 
 * **LinkedIn:** [Link para LinkedIn](https://www.linkedin.com/in/luisfelipebarreto/)
 * **Email:** [engluisfelipebarreto@gmail.com]
+
+* 📚 Esse projeto é parte do curso de Analista de Dados da EBAC
