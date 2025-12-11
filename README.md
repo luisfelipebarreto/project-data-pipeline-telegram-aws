@@ -16,9 +16,9 @@ O objetivo principal foi transformar interações de usuários em um grupo do Te
 
 ✍️ Autor: Luís Felipe Barreto
 
-* Para mais detalhes sobre o projeto ou para discutir as abordagens técnicas:
+Para mais detalhes sobre o projeto ou para discutir as abordagens técnicas:
 
 * **LinkedIn:** [Link para LinkedIn](https://www.linkedin.com/in/luisfelipebarreto/)
 * **Email:** [engluisfelipebarreto@gmail.com]
 
-* 📚 Esse projeto é parte do curso de Analista de Dados da EBAC
+📚 Esse projeto é parte do curso de Analista de Dados da EBAC
